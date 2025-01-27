@@ -138,6 +138,7 @@ La stratégie SEM et l'optimisation pour les SERP sont essentielles pour amélio
 - Réduire au maximum les temps de chargement des pages.
 - Veiller à la qualité du site et du contenu, incluant le code.
 - Assurer la pertinence et la qualité des backlinks.
+- Intégrer des outils comme les générateurs de mots-clés, bases de données, et effectuer une analyse concurrentielle approfondie.
 
 ### White Hat SEO
 Un ensemble de pratiques éthiques respectant les règles des moteurs de recherche pour optimiser un site web.
@@ -177,6 +178,8 @@ En dehors de Google, d'autres outils existent pour la recherche d'informations.
 - **Bing** : Moteur de recherche développé par Microsoft.
 - **DuckDuckGo** : Connu pour respecter la vie privée des utilisateurs.
 - **Qwant** : Moteur européen axé sur la confidentialité.
+- **Yahoo** : Ancien moteur de recherche toujours utilisé.
+- **Yandex** : Moteur de recherche populaire en Russie.
 
 ### 4.3 Les annuaires
 Plateformes qui listent des sites web par catégories, offrant une autre manière de rechercher des informations.
@@ -192,3 +195,86 @@ Plateformes qui listent des sites web par catégories, offrant une autre manièr
 
 ### 4.6 Synthèse de la première partie
 La recherche sur le web est en constante évolution, et les stratégies SEO doivent s'adapter pour rester efficaces. Comprendre le fonctionnement des moteurs de recherche, les attentes des utilisateurs, et les nouvelles tendances est essentiel pour maximiser les performances d'un site.
+
+---
+
+## Chapitre 5 : Environnement du site web
+
+### 5.1 Introduction
+
+### 5.2 La cible
+
+#### 5.2.1 Pourquoi définir la cible ?
+Définir la cible permet d'orienter le contenu, les mots-clés, et les stratégies marketing pour toucher le bon public.
+
+#### 5.2.2 Comment définir la cible ?
+- Étude démographique (âge, genre, localisation).
+- Comportements en ligne (habitudes de recherche, plateformes utilisées).
+
+### 5.3 Objectifs du site web
+
+- **Pourquoi ?** : Identifier les mots-clés SEO pertinents.
+- **Comment ?** : Produire du contenu de qualité.
+- **Contre qui ?** : Analyser les concurrents pour se démarquer.
+
+### 5.4 Réaliser un audit SEO
+
+#### 5.4.1 Les enjeux de l'audit SEO
+Identifier les points faibles et opportunités d'amélioration pour un site web.
+
+#### 5.4.2 L'audit technique
+Analyse des performances techniques : vitesse, accessibilité, sécurité.
+
+#### 5.4.3 L'audit sémantique
+Évaluation des contenus pour s'assurer qu'ils répondent aux besoins des utilisateurs et des moteurs de recherche.
+
+#### 5.4.4 L'audit de netlinking
+Analyse des backlinks pour garantir leur qualité et leur pertinence.
+
+### 5.5 Étude de concurrence / Benchmark
+
+#### 5.5.1 Pourquoi étudier la concurrence ?
+Comprendre ce qui fonctionne chez les autres pour ajuster ses propres stratégies.
+
+#### 5.5.2 Comment faire ?
+- Analyse des mots-clés concurrents.
+- Évaluation de leurs contenus et performances.
+
+#### 5.5.3 Concurrence SEO
+Observer les techniques de référencement utilisées par les concurrents.
+
+### 5.6 Topologie des sites web
+Définir une structure claire et intuitive pour améliorer l'expérience utilisateur et l'indexation par les moteurs de recherche.
+
+### 5.7 Synthèse
+Attirer l'attention des utilisateurs grâce à un contenu ciblé et une expérience optimale.
+
+---
+
+## Chapitre 6 : La base des mots-clés
+
+### 6.1 Introduction
+Les mots-clés sont au cœur de toute stratégie SEO.
+
+### 6.2 Évolution
+Avec le temps, les moteurs de recherche privilégient de plus en plus les intentions derrière les mots-clés (recherches conversationnelles, longues traînes).
+
+### 6.3 Méthodologie
+
+### 6.4 Trouver des mots-clés
+- Utilisation d'outils de recherche de mots-clés.
+- Analyse des tendances et volumes de recherche.
+
+#### 6.4.2 Le concept de longue traîne
+Se concentrer sur des mots-clés spécifiques et moins concurrentiels pour attirer une audience qualifiée.
+
+### 6.5 Enrichir vos listes de mots
+Diversifier vos mots-clés pour couvrir différents angles et intentions de recherche.
+
+### 6.6 Tester vos mots-clés
+Mesurer leur efficacité à travers des outils d'analyse (Google Analytics, Search Console).
+
+### 6.7 Arbitrer entre intérêt et faisabilité
+Choisir des mots-clés stratégiques en tenant compte de leur potentiel de trafic et de leur faisabilité en termes de concurrence.
+
+---
