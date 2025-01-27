@@ -278,3 +278,73 @@ Mesurer leur efficacité à travers des outils d'analyse (Google Analytics, Sear
 Choisir des mots-clés stratégiques en tenant compte de leur potentiel de trafic et de leur faisabilité en termes de concurrence.
 
 ---
+## Chapitre 8 : La balise title et les balises meta
+
+### 8.2.1 La balise title, le titre de la page
+
+### 8.2.2 La balise meta
+
+### 8.2.3 Inserer des mots clés dans l'en-tête
+
+### 8.2.4 Evolution
+## Composition d'une page web 
+
+Il y a 3 endroits dans lesquels vous allez placer vos mots-clés pour optimiser le referencement ede votre page web 
+
+-Dans k'entete de la page (HEAD) : cette partie est invisible pour l'utilisateur, mais elle est lue par les moteurs de recherhche et par le navigaeur. Elle contient des informatinos sur la page, comme le titre, la description, les mots-clés etc..
+-Dasn le corps de l page (BODY): c'est la partie visible de la page, c'est la que vous allez placer votre contenu
+
+- Dans les addressses (URL) des pages : les mots clés dans l'URL sont très importantss pour le referencement 
+
+structure html 
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Titre</title>
+        <meta name="description" content= "fsdjgfqnj"/>
+        <meta name="keywords" content= "fsdjgfqnj"/>
+    </head>
+    <body>
+        divqjd
+    </body>
+
+</html>
+```
+
+## La balise titre
+
+Le contenu de la balise title s'affiche dans les SERPs et sur l'onglet de la page concernée.
+Le titre doit a la fois contenir des mots clés et informer l'utilisateur sur le contenu de la page 
+
+Conseil de redaction: 
+
+- clarté et precision
+- Limitez vous a une dizaine de mots, en réamité c'est beacoup moins...
+- Trouver une expression qui inclut le plus de mot clés possible
+- Personalliser le titre de chaque page.
+- Essayer de placer les mots clés en début de phrase (pour la balise title le nombre de characteres recoonu peut varier d'un moteur de recherche a un autre)
+-Evitez les mots clés redondants, ou trop generiques
+
+## La balise meta
+
+La balise meta est une balise HTML qui permet de défuinir les métadonnées qui ne sont pas affichés à l'écran. il y a encore trop peu de pages qui contiennent pas de balises méta. 
+L'écolution recente des moteurs de recherches a rendu ces balises moins imoprtantes pour le referencemen, mais elles restent utiles pour d'autres raisons. 
+Faites les figurer sur toutes vos pages 
+
+## La balise meta description
+
+La baise meta description est un resumé de la page qui s'affiche dans les SERPs. Elle doitetre claire, consice, et infoirmative, Elle doit conenit les mots clés et inciter l'utilisateur a cliquer sur le lien 
+
+## La balise meta robots
+
+Elle indique aux robots des moteurs de recherche comment ils doivent se comporter avec la page : l'indexer ou non, suivre les liens ou non, etc..
+
+```html
+<meta name="robots" content="noindex, nofollow">
+```
+
+- `nosnipet` : empèche l'affichage d'un extrait de la page dans les SERPs
+- `noarchive`: empèche l'archivage de la page
+- `unavailable_after`: indique la data a partir de laquelle la page ne doit plus etre indexe.
